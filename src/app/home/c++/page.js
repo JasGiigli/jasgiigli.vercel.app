@@ -1,5 +1,5 @@
 // CPP.js
-
+'use client'
 import React from 'react';
 import HeroSection from '@/app/HeroSection'; // Import the HeroSection component
 

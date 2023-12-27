@@ -1,5 +1,5 @@
 // HeroSection.js
-
+'use client'
 import React from 'react';
 
 const HeroSection = ({ title, description }) => {

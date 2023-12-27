@@ -1,3 +1,4 @@
+'use client'
 import React from 'react';
 import HeroSection from '@/app/HeroSection'; // Assuming the HeroSection component is in the correct directory
 
