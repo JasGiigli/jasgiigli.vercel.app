@@ -43,7 +43,7 @@ const Home = () => {
     {
       language: 'C++',
       description: 'A powerful language used in system/application software, games, and more.',
-      url: '/home/c++',
+      url: '/home/cpp',
     },
     {
       language: 'Ruby',

@@ -12,9 +12,17 @@ const Header = () => {
   return (
     <header className="bg-white shadow-md p-4 flex items-center justify-between font-semibold">
       <div className='flex items-center space-x-3 pl-9 '>
-        <div>
-        <Link href="/"> <img src="/Jasgiigli.jpg" alt="JasGiigli Logo" className="h-8 rounded-full" /></Link>
-        </div>
+      <div>
+      <Link href="/">
+        <img
+          src="/JasGiigli.jpg" // Correct path to the image in the public directory
+          alt="JasGiigli Logo"
+          width={40}
+          height={40}
+          className="h-8 rounded-full"
+        />
+      </Link>
+    </div>
         <div>
           <h1 className='text-blue-600 hover:text-yellow-600 font-bold text-2xl'><Link href="/">Jasgiigli</Link></h1>
         </div>

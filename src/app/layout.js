@@ -1,4 +1,5 @@
 'use client'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import Footer from "./components/Footer/page";
 import Header from "./components/Header/page";
 import "./globals.css";
