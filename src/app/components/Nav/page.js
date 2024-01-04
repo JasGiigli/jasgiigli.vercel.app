@@ -1,3 +1,4 @@
+'use client'
 import React from 'react';
 import NextLink from 'next/link'; // Renamed to NextLink to avoid naming conflict
 
