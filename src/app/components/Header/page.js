@@ -12,21 +12,20 @@ const Header = () => {
   return (
     <header className="bg-white shadow-md p-4 flex items-center justify-between font-semibold">
       <div className='flex items-center space-x-3 pl-9 '>
-      <div>
-      <Link href="/">
-        <img
-          src="/JasGiigli.jpg" // Correct path to the image in the public directory
-          alt="JasGiigli Logo"
-          width={40}
-          height={40}
-          className="h-8 rounded-full"
-        />
-      </Link>
-    </div>
+        <div>
+          <Link href="/">
+            <img
+              src="/JasGiigli.jpg" // Correct path to the image in the public directory
+              alt="JasGiigli Logo"
+              className="h-8 w-8 sm:h-10 sm:w-10 md:h-12 md:w-12 rounded-full"
+            />
+          </Link>
+
+        </div>
         <div>
           <h1 className='text-blue-600 hover:text-yellow-600 font-bold text-2xl'><Link href="/">Jasgiigli</Link></h1>
         </div>
-        </div>
+      </div>
       <nav className="pr-9 md:hidden">
         <button onClick={toggleSidebar} className="text-3xl focus:outline-none">
           ☰ {/* You can replace this with your custom icon */}

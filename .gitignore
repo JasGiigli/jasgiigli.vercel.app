@@ -12,7 +12,7 @@
 # next.js
 /.next/
 /out/
-
+tatus
 # production
 /build
 
