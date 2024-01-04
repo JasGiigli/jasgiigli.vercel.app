@@ -1,0 +1,23 @@
+[33mcommit da340a771c9836720659e7f67f82f1b0d1ce15d0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: JasGiigli <overview.jjj@gmail.com>
+Date:   Thu Jan 4 19:06:55 2024 +0500
+
+    Resolved conflicts
+
+[33mcommit a0bb4ba16c883076ee55144d9cd20f91a93e28fe[m
+Author: JasGiigli <overview.jjj@gmail.com>
+Date:   Wed Dec 27 12:29:58 2023 -0800
+
+    Modifient using client side rendring
+
+[33mcommit 0f606b02a1eff1da1713319613b91e0fd5848ddc[m
+Author: JasGiigli <overview.jjj@gmail.com>
+Date:   Wed Dec 27 12:14:20 2023 -0800
+
+    first commit
+
+[33mcommit 38ec22627a6a50982d2e23169de21c4a2831873c[m
+Author: JasGiigli <overview.jjj@gmail.com>
+Date:   Wed Dec 27 10:31:43 2023 -0800
+
+    Initial commit from Create Next App
