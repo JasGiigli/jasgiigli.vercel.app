@@ -1,4 +1,4 @@
-'use client'
+'use cient'
 import Footer from "./components/Footer/page";
 import Header from "./components/Header/page";
 import "./globals.css";
